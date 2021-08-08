@@ -1,6 +1,7 @@
 # Engineering Recruitment
 
 ## Engineering Challenges
-* [Fullstack Challenge](fullstack)
-* [Frontend Challenge](frontend)
-* [Backend Challenge](backend)
+* [Fullstack Challenge](fullstack.md)
+* [Frontend Challenge](frontend.md)
+* [Backend Challenge](backend.md)
+* [Mobile Challenge](mobile.md)
