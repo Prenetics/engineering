@@ -1,4 +1,4 @@
-# Engineering Recruitment
+# Prenetics Engineering
 
 Prenetics is a leading global diagnostics and genetics testing company with a team of over 400. Prenetics has to-date performed more than 4 Million RT-PCR Covid-19 tests, working closely with the Hong Kong government and with major organizations such as English Premier League and more in the United Kingdom.
 
