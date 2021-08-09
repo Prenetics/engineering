@@ -1,4 +1,4 @@
-# Fullstack Engineering Challenge
+# Backend Engineering Challenge
 
 Prenetics Platform is a multi-tenant platform that offers individual organisations such as clinics and hospitals to manage their customers and patients data and test results. 
 
