@@ -6,7 +6,7 @@ We are currently building a team that will have the once in a career opportunity
 
 We move fast and develop a lot of ideas so you will have to keep up with our pace and not be resistant to regular product changes. You will be great at prioritising tasks in a busy environment and be able to show that you can hit deadlines and exceed expectations.
 
-## What do you expect as a Software Engineer at Prenetics
+## What would you expect as a Software Engineer at Prenetics
 * Champion best practices across our engineering organization
 * Design scalable, highly available applications
 * Work with teams to deliver all products under the Prenetics platform
@@ -24,7 +24,7 @@ The technology we use at Prenetics include (but not limited to) the following:
 * AWS
 * Terraform
  
-## What do we expect from you as a Software Engineet at Prenetics
+## What would we expect from you as a Software Engineer at Prenetics
 
 We would expect that 
 * You set a high bar for yourself and your team’s engineering skills
