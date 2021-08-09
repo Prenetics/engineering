@@ -63,7 +63,8 @@ We would also expect you to possess the following general technical skills as we
 * Highly proficient in one or more of iOS, Android developments
 * Experience with React Native development but not required
 
-We would also expect you to embody our **Prenetics Core Values**:
+### Prenetics Core Values
+We would also expect you to embody our core values:
 * Customer Happiness
 * Be Open and Transparent
 * Adapt To. Embrace. Drive CHANGE
