@@ -1,8 +1,5 @@
 # Engineering Recruitment
 
-We are looking for the best and brightest engineers to join us and grow our engineering team. 
-
-## About Prenetics 
 Prenetics is a leading global diagnostics and genetics testing company with a team of over 400. Prenetics has to-date performed more than 4 Million RT-PCR Covid-19 tests, working closely with the Hong Kong government and with major organizations such as English Premier League and more in the United Kingdom.
 
 We are currently building a team that will have the once in a career opportunity to re-imagine our industry. As a Software Engineer at Prenetics, you will help shape our engineering culture, provide technical leadership to build, evolve and maintain high quality applications. 
