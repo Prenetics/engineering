@@ -2,10 +2,14 @@
 
 We are looking for the best and brightest engineers to join us and grow our engineering team. 
 
-As a Software Engineer at Prenetics, you will help shape our engineering culture, provide technical leadership to build, evolve and maintain high quality application experiences that help our customers easily understand their test results. We move fast and develop a lot of ideas so you will have to keep up with our pace and not be resistant to regular product changes. You will be great at prioritising tasks in a busy environment and be able to show that you can hit deadlines and exceed expectations.
+## About Prenetics 
+Prenetics is a leading global diagnostics and genetics testing company with a team of over 400. Prenetics has to-date performed more than 4 Million RT-PCR Covid-19 tests, working closely with the Hong Kong government and with major organizations such as English Premier League and more in the United Kingdom.
+
+We are currently building a team that will have the once in a career opportunity to re-imagine our industry. As a Software Engineer at Prenetics, you will help shape our engineering culture, provide technical leadership to build, evolve and maintain high quality applications. 
+
+We move fast and develop a lot of ideas so you will have to keep up with our pace and not be resistant to regular product changes. You will be great at prioritising tasks in a busy environment and be able to show that you can hit deadlines and exceed expectations.
 
 Engineering responsibilities include but are not limited to:
-
 * Champion best practices across our engineering organization
 * Design scalable, highly available applications
 * Work with teams to deliver all products under the Prenetics platform
@@ -24,7 +28,7 @@ Your behaviours:
 * You have solid analytical and problem solving skills and strong attention to detail
 * You learn quickly and like to stay current with new technologies
  
-Our Core Technologies:
+Our Core Technology Stack
 * React Native
 * ReactJS
 * NodeJS
@@ -35,7 +39,8 @@ Our Core Technologies:
 * AWS
 * Terraform
  
-## Your Technical Skills:
+## Your Technical Skills
+
 ### General
 * Engineering or Computer Science degree or equivalent
 * 5+ yearts of engineering expereince (8+ years for Lead Engineers)
@@ -44,7 +49,7 @@ Our Core Technologies:
 * Experience in or understanding of CI/ CD
 * Experience in or understanding of Agile methodologies
 
-We expect you to possess both the general technical skills and one of the web and backend specific technical skills.
+We expect you to possess general technical skills as well as one or more of the web, backend and mobile specific technical skills.
 
 ### Web
 * Experience with building and operating consumer-facing web applications
