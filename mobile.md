@@ -8,7 +8,7 @@ Prenetics provides genetic based digital health solutions to hundreds and thousa
 * date of birth
 * genetic results
 
-With HTTPS Restful APIs over JSON described with the swagger specification https://raw.githubusercontent.com/Prenetics/test-api/master/api.json. Use https://editor.swagger.io/ to view. Note that these APIs aren’t actually available to the public.
+With HTTPS Restful APIs over JSON described with the swagger specification https://raw.githubusercontent.com/Prenetics/test-api/master/api.json. Use https://editor.swagger.io/ to view. Note that these APIs aren’t actually available to the public and this challenge would require you to engineer your solutions against the specification.
 
 As part of our preventive health care services, we would like our customers to be able to monitor their heart rate in order to allow themselves to better manage their stress levels and overall health conditions.
 
