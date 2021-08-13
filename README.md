@@ -41,7 +41,7 @@ We would expect that
 We would also expect you to possess the following general technical skills as well as one or more of the web, backend and mobile specific technical skills.
 ### General
 * Engineering or Computer Science degree or equivalent
-* 5+ years of engineering expereince (8+ years for Lead Engineers)
+* 2+ years of engineering expereince, 5+ years for Senior Engineers and 8+ years for Lead Engineers
 * Proficient in fundamentals of CS such as Data Structures, Algorithms, OOP, FP etc.
 * Experience in or understanding of BDD/ TDD
 * Experience in or understanding of CI/ CD
