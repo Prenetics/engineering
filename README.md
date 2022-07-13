@@ -1,8 +1,10 @@
 # Prenetics Engineering
 
-Prenetics is a leading global diagnostics and genetics testing company with a team of over 400. Prenetics has to-date performed more than 4 Million RT-PCR Covid-19 tests, working closely with the Hong Kong government and with major organizations such as English Premier League and more in the United Kingdom.
+Founded in 2014, Prenetics is a major global diagnostics and genetic testing company with the mission to bring health closer to millions of people globally and decentralize healthcare by making the three pillars — Prevention, Diagnostics and Personalized Care — comprehensive and accessible to anyone, at anytime and anywhere. Prenetics is led by visionary entrepreneur, Danny Yeung, with operations across 9 locations, including United Kingdom, Hong Kong, India, South Africa, and Southeast Asia. Prenetics develops consumer genetic testing and early colorectal cancer screening; provides COVID-19 testing, rapid point of care and at-home diagnostic testing and medical genetic testing.
 
-We are currently building a team across Hong Kong, Chennai and London that will have the once in a career opportunity to re-imagine our industry. As a Software Engineer at Prenetics, you will help shape our engineering culture, provide technical leadership to build, evolve and maintain high quality applications. 
+Most recently on May 18th 2022, Prenetics made international headlines to become Hong Kong’s First Unicorn to publicly list on the Nasdaq with ticker symbol of “PRE”.
+
+As a Software Engineer at Prenetics, you will have a once in a career opportunity to re-imagine our industry. You will help shape our engineering culture, provide technical leadership to build, evolve and maintain high quality applications. 
 
 We move fast and develop a lot of ideas so you will have to keep up with our pace and not be resistant to regular product changes. You will be great at prioritising tasks in a busy environment and be able to show that you can hit deadlines and exceed expectations.
 
@@ -63,18 +65,17 @@ We would also expect you to possess the following general technical skills as we
 * Highly proficient in one or more of iOS, Android developments
 * Experience with React Native development but not required
 
-### Prenetics Core Values
-We would also expect you to embody our core values:
-* Customer Happiness
-* Be Open and Transparent
-* Adapt To. Embrace. Drive CHANGE
-* Walk the Talk
-* TEAMWORK
-* Be PROACTIVE
-* Be Passionate & Determined
-* Be Humble
-* Move Fast
-* Do Epic Shit 
+### Prenetics DNA
+We would also expect you to embody our DNAs:
+* Passion
+* Resilience
+* Empowerment
+* iNtergrity
+* EPIC
+* Transparency
+* Ingenuity
+* Communication
+* Selflessness 
 
 ## Engineering Challenges
 You can check out the following engineering challenges to see if you have the technical craftmanship to join our team 
